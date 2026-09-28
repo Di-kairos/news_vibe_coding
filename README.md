@@ -120,4 +120,4 @@ for t in tests/test_*.sh; do bash "$t"; done
 
 ## License
 
-[MIT](LICENSE) © 2026 Mr. Di ([@Di-kairos](https://github.com/Di-kairos))
+[MIT](LICENSE) © 2026 Di-kairos ([@Di-kairos](https://github.com/Di-kairos))
